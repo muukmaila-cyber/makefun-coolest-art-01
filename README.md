@@ -1,8 +1,8 @@
 # Coolest art — make.fun entry
 
-A lone samurai woven from golden light standing in a vast black desert
-facing a gigantic rising red sun. One image, one mood: a single bold
-silhouette against a single huge disc of colour.
+A colossal gentle hand cupping a tiny glowing city at night, the city
+lights warm gold against a deep dark starry void. One image, one mood:
+wonder at a scale that makes a person look twice.
 
 `main.py` (stdlib only, no network) copies the bundled `art.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
