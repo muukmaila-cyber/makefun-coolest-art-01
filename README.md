@@ -1,8 +1,9 @@
 # Coolest art — make.fun entry
 
-A giant koi fish swimming through soft clouds above a tiny sleeping
-village at dawn. One image, one mood: serene wonder at a scale that makes
-a person look twice.
+A giant luminous golden koi swimming through deep navy night clouds in
+flat ukiyo-e style, a tiny sleeping village with warm lights far below and
+one small vermilion torii gate. One image, one mood: serene wonder at a
+scale that makes a person look twice.
 
 `main.py` (stdlib only, no network) copies the bundled `art.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
