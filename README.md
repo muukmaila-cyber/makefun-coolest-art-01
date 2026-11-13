@@ -1,9 +1,10 @@
 # Coolest art — make.fun entry
 
-A giant luminous golden koi swimming through deep navy night clouds in
-flat ukiyo-e style, a tiny sleeping village with warm lights far below and
-one small vermilion torii gate. One image, one mood: serene wonder at a
-scale that makes a person look twice.
+A giant golden world turtle swimming through a deep navy night sky in
+flat ukiyo-e style, its huge domed shell filling the frame, a tiny village
+with warm lights and about a dozen small villagers on top of the shell.
+One image, one mood: a living myth at a scale that makes a person look
+twice.
 
 `main.py` (stdlib only, no network) copies the bundled `art.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
