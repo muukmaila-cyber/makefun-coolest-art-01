@@ -1,8 +1,8 @@
 # Coolest art — make.fun entry
 
-A lone astronaut standing on the back of a colossal glowing whale swimming
-through a deep indigo night sky above a tiny city. One image, one mood:
-awe at a scale that makes a person look twice.
+A lone samurai woven from golden light standing in a vast black desert
+facing a gigantic rising red sun. One image, one mood: a single bold
+silhouette against a single huge disc of colour.
 
 `main.py` (stdlib only, no network) copies the bundled `art.jpg` to
 `/output/entry.png` and verifies it: JPEG magic bytes, at most 1 MiB,
